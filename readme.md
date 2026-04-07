@@ -26,7 +26,7 @@ A voice-controlled AI assistant that uses speech recognition to listen to your c
 ### 1. Clone this repository or download the files
 
 ```bash
-git clone https://github.com/flowstxte/Project-VoiceAI.git
+git clone https://github.com/flowstxte/VoiceAI.git
 ```
 
 ### 2. Install the required packages
